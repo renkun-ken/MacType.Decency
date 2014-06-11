@@ -1,15 +1,22 @@
 # MacType.Decency
 
-A MacType profile that provides decent solution to font rendering and font substitutions for Windows operating systems.
+MacType.Decency is a MacType profile that provides decent solutions to font rendering and font substitutions for Windows operating systems under English locale and Chiense locale.
 
-For maximal compatibility and best performance, the profile uses the following fonts:
+For English-locale Windows, the profile uses the following fonts:
 
 | Environment | Font                              |
 |-------------|-----------------------------------|
 | Windows UI  | Microsoft YaHei UI, Lucida Grande |
 | Firefox     | FZLanTingHei-R-GBK                |
 
-This profile applies for English locale and is not yet tested for Chinese locale.
+For Chinese-locale Windows, the profile uses the following fonts:
+
+| Environment | Font                              |
+|-------------|-----------------------------------|
+| Windows UI  | Microsoft YaHei UI                |
+| Firefox     | FZLanTingHei-R-GBK                |
+
+The choice of fonts is for maximal compatibility and best performance and effect. 
 
 ## Installation
 
